@@ -10,7 +10,7 @@ candidates 中的数字可以无限制重复被选取。
 - 通过标题以及题意可知，问题是回溯的组合问题。
 - 由递归回溯过程以及结合回溯组合问题的模板，将candidates的中每个值暴力组合。
 
-###代码
+### 代码
 ```
 class Solution {
     public static void main(String[] args) {
